@@ -2,3 +2,4 @@ streamlit
 requests
 langchain-community
 beautifulsoup4
+firecrawl-py
